@@ -1,0 +1,7 @@
+#email input:invalid {
+  background: hsla(0, 90%, 70%, 1);
+}
+
+#email input:valid {
+  background: hsla(100, 90%, 70%, 1);
+}
